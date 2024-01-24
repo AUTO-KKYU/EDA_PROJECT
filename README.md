@@ -1,6 +1,11 @@
 # 🤖 로봇공학 산업의 취업 시장 동향 및 핵심 기업 분석
 # Employment Trends and Key Company Analysis in the Robotics Engineering Industry 
 
+![1](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/a3c1c24d-dfa3-4561-9d8a-6f3cc35b174a)
+![2](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/02397df9-9982-4796-8fda-b49756a8e57e)
+![3](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/4722486f-3437-4d18-9967-a40d448a1f24)
+![4](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/9c958c7b-79e9-4c17-862d-4162b6639d28)
+
 ---
 ## 01. 🏁 프로젝트 소개
 잡코리아, 사람인 등 구직 사이트에서 우리에게 필요한 역량 및 업계 동향 등 필요한 정보들을 분석
