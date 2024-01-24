@@ -1,7 +1,15 @@
 # 🤖 로봇공학 산업의 취업 시장 동향 및 핵심 기업 분석
 # Employment Trends and Key Company Analysis in the Robotics Engineering Industry 
 
-![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/a36a0571-0dba-4f92-995e-5386470f9d0a)
+
+x
+
+x
+
+x
+
+R.DA ! 
+
 
 ---
 ## 01. 🏁 프로젝트 소개
