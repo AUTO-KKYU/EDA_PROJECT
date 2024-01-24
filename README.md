@@ -69,7 +69,8 @@
 #### Step 3. '기업이름', '고용형태', '연봉', '기업주소', '키워드', '담당업무','필요역량' csv 생성 및 AWS 업로드
 #### Step 4. 구축된 DB 위도 경도 정보 추가, 필요역량 불용어 처리 등 DB 후처리
 - 빈출정도 파악
-![10](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/67bdfa33-82d0-41d1-ad64-93eb6bf867a7)
+![스크린샷 2024-01-24 215442](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/42a8f07d-070b-44c0-b64d-ab298d54f024)
+
 
 
 
