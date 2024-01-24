@@ -121,7 +121,8 @@
 ![스크린샷 2024-01-24 231638](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/579955be-c34d-4c00-b9bb-2d852ab97e8c)
 ![스크린샷 2024-01-24 231701](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/dacc2a8c-05b7-4bce-b87f-787f4ac008dd)
 ![스크린샷 2024-01-24 231737](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/ac2d9bcd-ce62-4a0a-a16d-02a1b9a30e5f)
-![스크린샷 2024-01-24 231546](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/88937f17-4898-45b4-b010-ef27205b0268)
+![스크린샷 2024-01-24 231856](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/8d0c5918-1f62-4b00-9884-c1cf08edd4ec)
+
 
 
 
