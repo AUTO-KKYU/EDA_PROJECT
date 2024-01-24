@@ -52,7 +52,10 @@
 ## 05. ☑️가설 설정
 - 로봇 산업군에 대한 의문점 제시
 ![image](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/4d614e19-7de6-4c1e-9998-e911f8b08c6e)
+
 - 가설 검증을 위한 Flow Chart
+
+  
 ![Screenshot from 2024-01-23 15-55-53](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/4a4ba693-d314-4225-b67b-364b83ffde60)
 
 ---
