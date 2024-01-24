@@ -1,16 +1,6 @@
 # 🤖 로봇공학 산업의 취업 시장 동향 및 핵심 기업 분석
 # Employment Trends and Key Company Analysis in the Robotics Engineering Industry 
 
-
-x
-
-x
-
-x
-
-R.DA ! 
-
-
 ---
 ## 01. 🏁 프로젝트 소개
 잡코리아, 사람인 등 구직 사이트에서 우리에게 필요한 역량 및 업계 동향 등 필요한 정보들을 분석
