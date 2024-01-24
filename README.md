@@ -69,6 +69,7 @@
 #### Step 3. '기업이름', '고용형태', '연봉', '기업주소', '키워드', '담당업무','필요역량' csv 생성 및 AWS 업로드
 #### Step 4. 구축된 DB 위도 경도 정보 추가, 필요역량 불용어 처리 등 DB 후처리
 - 빈출정도 파악
+  
 ![스크린샷 2024-01-24 215442](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/42a8f07d-070b-44c0-b64d-ab298d54f024)
 
 
@@ -81,13 +82,19 @@
 ### Folium을 활용한 지역별 직무 분포 파악
 
 #### 07.1 직무(키워드) 별 시각화 분석
-##### 키워드 컬럼 내 자율주행/드론/딥러닝/로봇 제어 분포
+##### - 키워드 컬럼 내 자율주행/드론/딥러닝/로봇 제어 분포
 ![스크린샷 2024-01-24 214908](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/9e9333e7-36ff-474c-83fb-d656526a91f3)
-##### 각 키워드 컬럼값 내 필요역량 비중
+##### - 각 키워드 컬럼값 내 필요역량 비중
 ![스크린샷 2024-01-24 215112](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/53bc7a92-a192-4734-b6ca-c4587f95b19b)
 ![스크린샷 2024-01-24 215341](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/21cb1d82-d9bb-4c33-bed6-562bf362614a)
 
+#### 07.2 반복어 검출 데이터를 활용한 시각화
+##### - 직무 별 필요 역량 파악을 위한 시각화(Word Cloud)
+![스크린샷 2024-01-24 215857](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/b7ef5fda-73db-427a-b59b-8111285f6c13)
 
+#### 07.3 Folium을 활용한 지역별 직무 분포 파악
+##### - Google Map API와 Folium을 연동한 지역별 직무 분포도
+![image](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/1903c0d1-9072-458f-a676-a68ac9b2ca96)
 
 <br>
 
