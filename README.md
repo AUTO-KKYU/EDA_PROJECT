@@ -17,7 +17,20 @@
 ---
 ## 03. 📝 프로젝트 기술
 
-![Screenshot from 2023-10-04 16-10-07](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3671598a-1cd0-447f-8583-e0e31232449c)
+![스크린샷 2024-01-24 204430](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/0cbd3db9-b267-423e-b3fa-d224b893819f)
+Ubuntu 22.04
+python 3. 10. 12
+matplotlib 3.8.2
+folium 0.15.1
+seaborn-0.13.1
+plotly-5.18
+selenium – 4.16
+beautifulsoup – 4.12.2
+pandas – 2.1.4 
+mysql_connector_python-8.2.0
+Amazon RDS
+chrome
+pytesseract-0.3.10
 
 ---
 ## 04. 🔎 데이터수집
