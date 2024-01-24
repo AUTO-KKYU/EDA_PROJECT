@@ -94,7 +94,7 @@
 
 ### 07.3 Folium을 활용한 지역별 직무 분포 파악
 #### - Google Map API와 Folium을 연동한 지역별 직무 분포도
-
+![ezgif com-video-to-gif-converter](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/5bc9eb29-617e-4bc7-97e7-c33865072046)
 ![image](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/1903c0d1-9072-458f-a676-a68ac9b2ca96)
 
 <br>
