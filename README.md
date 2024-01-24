@@ -33,11 +33,11 @@
 - chrome
 - pytesseract-0.3.10
   
-### 필수 기능(주요 구현 기능)
-•	MySQL 기반 DB 구축 및 AWS 연동을 통한 관리
-•	selenium과 beautifulsoup를 활용한 웹크롤링
-•	pandas 모듈을 통한 데이터 전처리
-•	matplotlib, seaborn, plotly,folium등을 활용한 데이터 시각
+### #필수 기능(주요 구현 기능)
+-	MySQL 기반 DB 구축 및 AWS 연동을 통한 관리
+-	selenium과 beautifulsoup를 활용한 웹크롤링
+-	pandas 모듈을 통한 데이터 전처리
+-	matplotlib, seaborn, plotly,folium등을 활용한 데이터 시각
 
 
 ---
