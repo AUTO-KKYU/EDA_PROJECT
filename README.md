@@ -101,7 +101,7 @@
 ---
 ## 08. 🗂️DB 구축 및 전망 분석
 ### 08.1 AWS RDS와 MySQL을 이용한 채용사이트 DB 구축
-![스크린샷 2024-01-24 225643](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/973a483e-f738-4599-a109-035afdb04434
+![스크린샷 2024-01-24 225643](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/973a483e-f738-4599-a109-035afdb04434)
 ![스크린샷 2024-01-24 225905](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/74f32b6b-560c-48ba-a328-ae7566ba910f)
 ![스크린샷 2024-01-24 230004](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/afbdb3a6-2485-4df3-84ab-b080d9c0e1f9)
 ![스크린샷 2024-01-24 230037](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/3426375e-fa01-41d6-b1b6-dbbaaefed833)
