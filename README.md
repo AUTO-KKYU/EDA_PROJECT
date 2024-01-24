@@ -59,7 +59,7 @@
 ![Screenshot from 2024-01-23 15-55-53](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/4a4ba693-d314-4225-b67b-364b83ffde60)
 
 ---
-## 06. 🔎 데이터수집
+## 06. 🔎 데이터 수집
 ### 06.1 채용 사이트 선정
 ![스크린샷 2024-01-24 213559](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/9a54bc7d-1290-460d-a89c-62d3a897999d)
 ### 06.2 채용 사이트 EDA 과정 
@@ -74,14 +74,13 @@
 
 
 ---
-## 05. 📊 데이터 분석
-### 05-1. 로봇 유형
-### 05-2. 상장 여부
-### 05-3. 필요한 경력 및 학력
-### 05-4. 필요한 역량
-### 05-5. 채용포지션, 담당업무, 지원자격, 우대사항
+## 07. 🎴데이터 분석 및 시각화
+### 직무(키워드) 별 시각화 분석
+### 반복어 검출 데이터 기반 시각화 분석
+### Folium을 활용한 지역별 직무 분포 파악
 
-![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
+#### 07.1 직무(키워드) 별 시각화 분석
+![image (8)](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/c60d97e1-79fc-46a1-a708-480d9d99c8bb)
 
 <br>
 
