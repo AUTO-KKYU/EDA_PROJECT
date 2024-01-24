@@ -80,7 +80,13 @@
 ### Folium을 활용한 지역별 직무 분포 파악
 
 #### 07.1 직무(키워드) 별 시각화 분석
-![image (8)](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/c60d97e1-79fc-46a1-a708-480d9d99c8bb)
+##### 키워드 컬럼 내 자율주행/드론/딥러닝/로봇 제어 분포
+![스크린샷 2024-01-24 214908](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/9e9333e7-36ff-474c-83fb-d656526a91f3)
+##### 각 키워드 컬럼값 내 필요역량 비중
+![스크린샷 2024-01-24 215112](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/53bc7a92-a192-4734-b6ca-c4587f95b19b)
+![스크린샷 2024-01-24 215341](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/21cb1d82-d9bb-4c33-bed6-562bf362614a)
+
+
 
 <br>
 
