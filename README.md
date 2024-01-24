@@ -101,7 +101,7 @@
 ---
 ## 08. 🗂️DB 구축 및 전망 분석
 ### 08.1 AWS RDS와 MySQL을 이용한 채용사이트 DB 구축
-![스크린샷 2024-01-24 225643](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/973a483e-f738-4599-a109-035afdb04434)
+![스크린샷 2024-01-24 230922](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/006f6037-58e8-42d2-97f5-4025a274951d)
 ![스크린샷 2024-01-24 225905](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/74f32b6b-560c-48ba-a328-ae7566ba910f)
 ![스크린샷 2024-01-24 230004](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/afbdb3a6-2485-4df3-84ab-b080d9c0e1f9)
 ![스크린샷 2024-01-24 230037](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/3426375e-fa01-41d6-b1b6-dbbaaefed833)
@@ -109,12 +109,21 @@
 ### 08.2 기업 성장 지표 DB 구축
 ![스크린샷 2024-01-24 230253](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/a202b010-d896-4f25-a9e6-d7da0200f5d1)
 ![스크린샷 2024-01-24 230343](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/95b89f6a-41ed-4248-9315-765c2f3ef71b)
-![스크린샷 2024-01-24 230422](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/5f0f1db9-ad71-4781-96ac-5128f2cadbc6)
+![스크린샷 2024-01-24 230831](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/dbe5151a-5ab4-4a7e-9511-8911523a74df)
+
 
 ### 08.3 Query와 시각화를 통한 DB 분석
 ![스크린샷 2024-01-24 230450](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/8b70e971-039d-4bdb-92fd-0db818af2b81)
+![스크린샷 2024-01-24 230707](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/ff69d8c5-e5fc-4117-bb53-bd31158859fb)
 
-- 기업 추천
+### 08.4 기업 추천
+![스크린샷 2024-01-24 231415](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/53b53a8f-17e8-4c37-ab6b-3f80e369ae04)
+![스크린샷 2024-01-24 231638](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/579955be-c34d-4c00-b9bb-2d852ab97e8c)
+![스크린샷 2024-01-24 231701](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/dacc2a8c-05b7-4bce-b87f-787f4ac008dd)
+![스크린샷 2024-01-24 231737](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/ac2d9bcd-ce62-4a0a-a16d-02a1b9a30e5f)
+![스크린샷 2024-01-24 231546](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/88937f17-4898-45b4-b010-ef27205b0268)
+
+
 
 
 #### KoNLPy를 이용한 직무 키워드 추출 및 NLP(Natural Language Processing, 자연어처리)
