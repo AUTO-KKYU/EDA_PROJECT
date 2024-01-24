@@ -32,9 +32,16 @@
 - Amazon RDS
 - chrome
 - pytesseract-0.3.10
+  
+### 필수 기능(주요 구현 기능)
+•	MySQL 기반 DB 구축 및 AWS 연동을 통한 관리
+•	selenium과 beautifulsoup를 활용한 웹크롤링
+•	pandas 모듈을 통한 데이터 전처리
+•	matplotlib, seaborn, plotly,folium등을 활용한 데이터 시각
+
 
 ---
-## 04.![image](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/aca35773-dbad-4b31-bb55-6415607ae622) 프로젝트 목적
+## 04. ✍️프로젝트 목적
 - 주제 선정을 위한 마인드 맵 작성
  ![Team-mind_map](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/b7b8d4e5-54f5-4ffc-aff2-eb7b64e0cc1a)
 - AI를 응용하려는/하고있는 채용 시장 파악
