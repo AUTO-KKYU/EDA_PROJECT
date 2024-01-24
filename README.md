@@ -106,9 +106,14 @@
 ![스크린샷 2024-01-24 230004](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/afbdb3a6-2485-4df3-84ab-b080d9c0e1f9)
 ![스크린샷 2024-01-24 230037](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/3426375e-fa01-41d6-b1b6-dbbaaefed833)
 
+### 08.2 기업 성장 지표 DB 구축
+![스크린샷 2024-01-24 230253](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/a202b010-d896-4f25-a9e6-d7da0200f5d1)
+![스크린샷 2024-01-24 230343](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/95b89f6a-41ed-4248-9315-765c2f3ef71b)
+![스크린샷 2024-01-24 230422](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/5f0f1db9-ad71-4781-96ac-5128f2cadbc6)
 
-- 기업 성장 지표 DB 구축
-- Query와 시각화를 통한 DB 분석
+### 08.3 Query와 시각화를 통한 DB 분석
+![스크린샷 2024-01-24 230450](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/8b70e971-039d-4bdb-92fd-0db818af2b81)
+
 - 기업 추천
 
 
