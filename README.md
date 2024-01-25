@@ -1,7 +1,8 @@
 # 🤖 로봇공학 산업의 취업 시장 동향 및 핵심 기업 분석
 # Employment Trends and Key Company Analysis in the Robotics Engineering Industry 
 
-![스크린샷 2024-01-24 203120](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/b1bc0562-3167-40a8-b7de-44d7f5d16921)
+![스크린샷 2024-01-25 210230](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/08f9c508-0b4e-4c0c-8f7f-0695b3228e0c)
+
 
 ---
 ## 01. 🏁 프로젝트 소개
@@ -127,13 +128,29 @@
 ![스크린샷 2024-01-24 231638](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/579955be-c34d-4c00-b9bb-2d852ab97e8c)
 ![스크린샷 2024-01-24 231701](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/dacc2a8c-05b7-4bce-b87f-787f4ac008dd)
 ![스크린샷 2024-01-24 231737](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/ac2d9bcd-ce62-4a0a-a16d-02a1b9a30e5f)
-![스크린샷 2024-01-24 231856](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/8d0c5918-1f62-4b00-9884-c1cf08edd4ec)
+![스크린샷 2024-01-25 202107](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/5f9c5674-6c7b-4120-ba5f-66b73dd30f0a)
+
 
 ---
 ## 08. 📌가설 검증 및 기업 분석
-- Fact Check : 신입 뽑아주나요?
+- Fact Check : 채용 시장? 신입 뽑아주나요?
 - 가설 검증
 - 기업 분석 : 이슈, 채용 정보
 
+### 08.1 Fact Check : 채용 시장? 신입 뽑아주나요?
+![스크린샷 2024-01-25 210500](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/dac199a1-f3d8-4708-9cb5-c8a455cba24e)
+![image](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/b0d35473-5e59-44c2-8582-aa649f439052)
+![스크린샷 2024-01-25 210839](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/980257c6-da2d-40f5-995d-557da622120b)
+
+### 08.2 가설 검증
+![스크린샷 2024-01-25 211023](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/f834eef5-a649-4879-b5d4-582dc9fe1f9b)
+![스크린샷 2024-01-25 211123](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/b8de354d-ef78-4737-87a7-8d3055ac9f5f)
+![스크린샷 2024-01-25 211211](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/09153df9-bd24-45d9-b4e3-4fbfd90c30ef)
+![스크린샷 2024-01-25 211257](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/2dd528c3-b6eb-4f09-97b6-40fe4a914249)
+![스크린샷 2024-01-25 211314](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/13661249-c619-4a9c-9cb9-b2939962d48d)
+![스크린샷 2024-01-25 211352](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/be6d4c73-f913-4523-b84c-2f0b37558e17)
+![스크린샷 2024-01-25 211438](https://github.com/donggyu0411/EDA_PROJECT/assets/118419026/c1d4f3ee-b321-4644-a568-345af755ad8e)
+
+### 08.3 기업 분석 : 이슈, 채용 정보
 ---
 ## 09. 💡 실전 문제 해결 사례
